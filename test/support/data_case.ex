@@ -22,6 +22,7 @@ defmodule CheckersApi.DataCase do
       import Ecto.Changeset
       import Ecto.Query
       import CheckersApi.DataCase
+      import CheckersApi.Factory
     end
   end
 
